@@ -11,3 +11,7 @@ Morgan - Helps to show the method in use, reponse-time, and the status
 body-parser - this is to parse the body of request in the middlware before the handlers
 
 nodemon - detects changes to the code and automatically restarts the node application so we dont have to restart the server manually every single time we make a change
+
+supertest - testing framework for express routes
+
+jest - testing framework to run tests
